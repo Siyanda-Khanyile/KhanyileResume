@@ -1,0 +1,54 @@
+Siyanda Khanyile
+Software Engineer  |  Cloud & Automation Focus
+Somerset West, Cape Town  •  +27 74 2244 993  •  khanyile.siyanda@outlook.com  •  linkedin.com/in/siyanda-khanyile-6b6896182
+PROFESSIONAL SUMMARY
+Software Engineer with experience building and supporting cloud-native and enterprise applications across fintech and cloud marketplace environments. Strong background in .NET, JavaScript/TypeScript, SQL, and AWS services, with hands-on exposure to system integrations, automation engineering, and production troubleshooting. Proven ability to improve system efficiency through automation (99%+ time reduction), contribute to secure and scalable deployments, and collaborate cross-functionally in SLA-driven environments.
+TECHNICAL SKILLS
+Languages: C#, Java, JavaScript, TypeScript, Python, SQL
+Frameworks: .NET Core, Blazor, Angular, Bootstrap
+Cloud & DevOps: AWS (Marketplace, AMIs, CloudFormation, CloudWatch), Azure DevOps, Git
+Monitoring & Observability: Dynatrace
+Testing: Selenium, Karma, Jasmine
+Systems: Linux (basic), PowerShell
+Practices: Agile, Incident Management, Production Support, CI/CD
+PROFESSIONAL EXPERIENCE
+Amazon Web Services (AWS)  —  Support Engineer (Engineering-Focused Role)
+June 2024 – Present
+Engineered Python and AI-based automation tool reducing monthly manual processing from 5 hours to 1 minute (~260 hours saved annually).
+Automated >80% of manual AMI publishing validation workflows.
+Validated 250+ Amazon Machine Images (AMIs) including CloudFormation-based deployments.
+Resolved 700+ technical infrastructure and integration cases with 1-hour average resolution time.
+Collaborated with engineering and operations teams to troubleshoot deployment issues.
+Created SOPs and delivered training sessions to 10 team members on automation tooling.
+Participated in rotational 24/7 standby support.
+Nedbank  —  Software Developer / Application Support Engineer
+July 2022 – June 2024
+Led 5 Disaster Recovery (DR) simulation tests in 6 months within the 2-hour recovery time objective, validating system resilience and operational readiness.
+Delivered weekly identity and access management (IAM) support to ~500 Nedbank employees, provisioning and revoking system access through SailPoint Identity IQ.
+Developed and maintained enterprise banking application components on SailPoint Identity IQ using Java.
+Ensured that Cron jobs that ran overnight complete without errors and failures to prevent critical banking system impacts.
+Configured TLS certificate encryption to secure communication between applications, ensuring data in transit is encrypted.
+Monitored system performance using Dynatrace to prevent outages.
+Participated in rotational 24/7 standby support.
+Performed change management every Friday to deploy new features to production.
+Utilised Jira and Confluence to track tasks, manage workflows, and maintain up-to-date technical documentation across the team.
+Silverbridge  —  Front-End Developer
+January 2020 – June 2022
+Designed and implemented UI features using Blazor, .NET Core, and Bootstrap, enhancing user experience and supporting new product capabilities.
+Developed 250+ Selenium automation tests to improve regression testing efficiency and increase application reliability.
+Conducted code reviews in Azure DevOps, ensuring adherence to coding standards and reducing potential defects before release.
+Authored technical documentation for system enhancements, improving team collaboration and accelerating onboarding for new developers.
+Developed build and release pipeline policies to ensure a new build runs for every new commit.
+immedia studio  —  Front-End Developer
+May 2018 – July 2019
+Built Angular-based CMS components.
+Resolved UI defects and enhanced usability.
+Developed ~50 automation tests to improve regression testing efficiency and increase application reliability using Karma and Jasmine.
+Mentored students during seasonal internship programmes, delivering front-end development training and providing hands-on guidance throughout their project work.
+EDUCATION & CERTIFICATIONS
+AWS Certified Cloud Practitioner  —  July 2025
+Microsoft Certified: Azure Fundamentals (AZ-900)  —  July 2023
+National Diploma in Software Development  —  Durban University of Technology, 2015–2017
+REFERENCES
+Addenaan Johardien  —  Manager  |  +27 84 882 4597
+Victor Rivas  —  Mentor  |  +27 79 283 2129
