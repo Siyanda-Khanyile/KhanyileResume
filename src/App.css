@@ -264,9 +264,112 @@ section h2 {
   color: #e50914;
 }
 
+/* Projects Section */
+.projects {
+  background-color: #141414;
+}
+
+.projects-grid {
+  display: grid;
+  gap: 2rem;
+}
+
+.project-card {
+  background-color: #1a1a1a;
+  padding: 2.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #e50914;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(229, 9, 20, 0.3);
+}
+
+.project-card h3 {
+  font-size: 1.8rem;
+  color: #e50914;
+  margin-bottom: 1rem;
+}
+
+.project-description {
+  font-size: 1.1rem;
+  color: #b3b3b3;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.project-tech h4,
+.project-achievements h4 {
+  color: #ffffff;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tech-tag {
+  background-color: #2a2a2a;
+  color: #e50914;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  border: 1px solid #e50914;
+}
+
+.project-achievements ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.project-achievements li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+  color: #b3b3b3;
+  line-height: 1.6;
+}
+
+.project-achievements li:before {
+  content: "▹";
+  position: absolute;
+  left: 0;
+  color: #e50914;
+  font-size: 1.2rem;
+}
+
+.project-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.project-link {
+  background-color: #e50914;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.project-link:hover {
+  background-color: #f40612;
+  transform: translateX(5px);
+}
+
 /* Contact Section */
 .contact {
-  background-color: #141414;
+  background-color: #1a1a1a;
   text-align: center;
 }
 
