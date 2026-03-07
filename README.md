@@ -6,7 +6,7 @@ A Netflix-inspired portfolio website built as part of the AWS Cloud Resume Chall
 
 - ✅ Static website hosted on AWS S3
 - ✅ Visitor counter using Lambda, DynamoDB & API Gateway
-- ✅ CI/CD pipeline with GitHub Actions
+- ✅ CI/CD pipeline with GitHub Actions (automated deployment)
 - 🔄 Custom domain with Route 53 (coming soon)
 - 🔄 CloudFront CDN for global delivery (coming soon)
 - 🔄 SSL certificate with AWS Certificate Manager (coming soon)
