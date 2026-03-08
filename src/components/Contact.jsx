@@ -40,7 +40,7 @@ function Contact() {
           </a>
         </div>
         <p style={{ marginTop: '3rem', color: '#808080', fontSize: '0.9rem' }}>
-          Somerset West, Cape Town
+          Somerset West, Cape Town | Open to Relocation
         </p>
       </div>
     </section>
