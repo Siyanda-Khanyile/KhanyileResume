@@ -8,7 +8,7 @@ function Skills() {
     },
     {
       category: "Frameworks",
-      skills: [".NET Core", "Blazor", "Angular", "Bootstrap"]
+      skills: [".NET Core", "Blazor", "React", "React Native", "Angular", "Bootstrap"]
     },
     {
       category: "Cloud & DevOps",

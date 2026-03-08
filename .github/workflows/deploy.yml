@@ -35,5 +35,6 @@ jobs:
         run: |
           aws s3 sync build/ s3://siyanda-khanyile-resume --delete
       
-      - name: Invalidate CloudFront (optional for later)
-        run: echo "CloudFront invalidation will be added after Step 5"
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation --distribution-id EVNNN7HLZVDKV --paths "/*"
