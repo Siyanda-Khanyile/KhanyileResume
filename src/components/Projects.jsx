@@ -13,7 +13,6 @@ function Projects() {
         "Designed Netflix-inspired responsive UI with React"
       ],
       links: [
-        { label: "Live Site", url: "https://d12oebvwwgddu.cloudfront.net" },
         { label: "GitHub", url: "https://github.com/Siyanda-Khanyile/KhanyileResume" }
       ]
     }
