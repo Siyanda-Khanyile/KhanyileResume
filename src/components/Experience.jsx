@@ -7,15 +7,15 @@ function Experience() {
       role: "Support Engineer",
       duration: "June 2024 – Present",
       achievements: [
-        "Engineered Python and AI-based automation tool reducing monthly manual processing from 5 hours to 1 minute (~260 hours saved annually)",
+        "Contributed to Tools & Scripts team developing internal automation tools for AWS Marketplace operations",
+        "Maintained local development environment for writing, testing, and debugging automation scripts",
+        "Managed code changes through Git version control, including branching, code reviews, and deployment processes",
         "Developed build and release pipeline (CI/CD) policies to ensure a new build runs for every new commit for the Python Automation tool",
+        "Engineered Python and AI-based automation tool reducing monthly manual processing from 5 hours to 1 minute (~260 hours saved annually)",
         "Automated >80% of manual AMI publishing validation workflows",
         "Validated 250+ Amazon Machine Images (AMIs) including CloudFormation-based deployments",
         "Created a Python based automation Script that helped fellow Support Engineers publish excel based worflows quicker, time saved 1 hour",
         "Resolved 700+ technical infrastructure and integration cases with 1-hour average resolution time",
-        "Contributed to Tools & Scripts team developing internal automation tools for AWS Marketplace operations",
-        "Maintained local development environment for writing, testing, and debugging automation scripts",
-        "Managed code changes through Git version control, including branching, code reviews, and deployment processes",
         "Created SOPs and delivered training sessions to 10 team members on automation tooling",
         "Participated in rotational 24/7 standby support"
       ]
