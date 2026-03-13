@@ -11,7 +11,12 @@ function Experience() {
         "Automated >80% of manual AMI publishing validation workflows",
         "Validated 250+ Amazon Machine Images (AMIs) including CloudFormation-based deployments",
         "Resolved 700+ technical infrastructure and integration cases with 1-hour average resolution time",
-        "Created SOPs and delivered training sessions to 10 team members on automation tooling"
+        "Contributed to Tools & Scripts team developing internal automation tools for AWS Marketplace operations",
+        "Maintained local development environment for writing, testing, and debugging automation scripts",
+        "Implemented workflow enhancements that reduced manual effort across operations team",
+        "Managed code changes through Git version control, including branching, code reviews, and deployment processes",
+        "Created SOPs and delivered training sessions to 10 team members on automation tooling",
+        "Participated in rotational 24/7 standby support"
       ]
     },
     {
