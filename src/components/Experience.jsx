@@ -17,7 +17,8 @@ function Experience() {
         "Created a Python based automation Script that helped fellow Support Engineers publish excel based worflows quicker, time saved 1 hour",
         "Resolved 700+ technical infrastructure and integration cases with 1-hour average resolution time",
         "Created SOPs and delivered training sessions to 10 team members on automation tooling",
-        "Participated in rotational 24/7 standby support"
+        "Participated in rotational 24/7 standby support",
+        "Collaborated with engineering and operations teams to troubleshoot deployment issues"
       ]
     },
     {
