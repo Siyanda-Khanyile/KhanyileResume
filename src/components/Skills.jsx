@@ -12,7 +12,7 @@ function Skills() {
     },
     {
       category: "Cloud & DevOps",
-      skills: ["AWS Lambda", "API Gateway", "DynamoDB", "S3", "CloudFront", "IAM", "CloudFormation", "CloudWatch", "Azure DevOps", "Git"]
+      skills: ["AWS Lambda", "API Gateway", "DynamoDB", "S3", "CloudFront", "IAM", "CloudFormation", "Amazon QuickSight", "CloudWatch", "Azure DevOps", "Git"]
     },
     {
       category: "Tools & Testing",
